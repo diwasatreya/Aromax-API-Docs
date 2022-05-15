@@ -10,7 +10,7 @@
   <li> <a href="#fetch-user">Discord User Information</a> </li>
   </ul>
     
-   <h3 id="chatbot-api">1. Chatbot API</h4>
+   <h3 id="chatbot-api">Artificial Intelligence Chatbot</h4>
 <details>
   <summary> Read More!</summary>
   
