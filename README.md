@@ -4,13 +4,13 @@
       <p>Documentation of API's provided by Aromax Development</p>
     </div>
     
-   <h3>Available APIs are </h3>
+   <h2><center>Choose a api too see ites docs</center></h3>
    <ul>
   <li> <a href="#chatbot-api">Artificial Intelligence Chatbot</a> </li>
   <li> <a href="#fetch-user">Discord User Information</a> </li>
   </ul>
     
-   <h4 id="chatbot-api">Chatbot API</h4>
+   <h3 id="chatbot-api">1. Chatbot API</h4>
 <details>
   <summary> <b>View More</b></summary>
   
@@ -101,7 +101,7 @@ fetch(`https://aromaxdev.xyz/api/chatbot?message=${mes}`, {
   
   
   
-  <h4 id="fetch-user">Discord User Information</h4>
+  <h3 id="fetch-user">Discord User Information</h4>
 <details>
   <summary><b> View More</b></summary>
   <br>
