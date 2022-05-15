@@ -13,15 +13,10 @@
 <details>
   <summary>View More</summary>
   
-    ## Example
+  ## Example [ Node.js ]
   ```js
-  const ps = require("prompt-sync");
-const prompt = ps();
-const mes = prompt("Ask:");
 const fetch = require("node-fetch").default;
-
-                     
- let sp = fetch(`https://aromaxdev.xyz/api/chatbot?message=${mes}`, {
+fetch(`https://aromaxdev.xyz/api/chatbot?message=${mes}`, {
         
     })
         .then(res => res.json())
