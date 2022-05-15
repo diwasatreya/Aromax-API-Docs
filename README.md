@@ -4,7 +4,7 @@
       <p>Documentation of API's provided by Aromax Development</p>
     </div>
     
-   <h2><center>Choose a api too see ites docs</center></h3>
+   <h2><center>Choose an API too see its information:</center></h3>
    <ul>
   <li> <a href="#chatbot-api">Artificial Intelligence Chatbot</a> </li>
   <li> <a href="#fetch-user">Discord User Information</a> </li>
