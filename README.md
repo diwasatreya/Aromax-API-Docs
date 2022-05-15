@@ -12,7 +12,7 @@
     
    <h3 id="chatbot-api">1. Chatbot API</h4>
 <details>
-  <summary> <b>View More</b></summary>
+  <summary> Read More!</summary>
   
   ### Example [ Node.js ]
   ```js
@@ -103,7 +103,7 @@ fetch(`https://aromaxdev.xyz/api/chatbot?message=${mes}`, {
   
   <h3 id="fetch-user">Discord User Information</h4>
 <details>
-  <summary><b> View More</b></summary>
+  <summary> Read More!</summary>
   <br>
   
   ```
