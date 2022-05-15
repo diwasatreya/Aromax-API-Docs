@@ -6,7 +6,8 @@
     
    <h3>Available APIs are </h3>
    <ul>
-  <li> <a href="#chatbot-api">Chatbot API</a> </li>
+  <li> <a href="#chatbot-api">Artificial Intelligence Chatbot</a> </li>
+  <li> <a href="#fetch-user">Discord User Information</a> </li>
   </ul>
     
    <h4 id="chatbot-api">Chatbot API</h4>
