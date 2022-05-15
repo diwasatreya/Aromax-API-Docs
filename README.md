@@ -11,11 +11,12 @@
     
    <h4 id="chatbot-api">Chatbot API</h4>
 <details>
-  <summary>View More</summary>
+  <summary> <b>View More</b></summary>
   
   ### Example [ Node.js ]
   ```js
 const fetch = require("node-fetch").default;
+  const mes = "Hello, How are you?"
 fetch(`https://aromaxdev.xyz/api/chatbot?message=${mes}`, {
         
     })
@@ -101,9 +102,10 @@ fetch(`https://aromaxdev.xyz/api/chatbot?message=${mes}`, {
   
   <h4 id="fetch-user">Discord User Information</h4>
 <details>
-  <summary> View More</summary>
+  <summary><b> View More</b></summary>
+  <br>
   
-    ```
+  ```
   https://aromaxdev.xyz/api/discord/user/<UserID>
   ```
   
