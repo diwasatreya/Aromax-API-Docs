@@ -13,7 +13,7 @@
 <details>
   <summary>View More</summary>
   
-  ## Example [ Node.js ]
+  ### Example [ Node.js ]
   ```js
 const fetch = require("node-fetch").default;
 fetch(`https://aromaxdev.xyz/api/chatbot?message=${mes}`, {
@@ -25,7 +25,7 @@ fetch(`https://aromaxdev.xyz/api/chatbot?message=${mes}`, {
         })
   ```
   
-  ## Using Parameters
+  ### Using Parameters
   ```
   https://aromaxdev.xyz/api/chatbot?message=<string>&name=<string>&gender=<string>
   ```
@@ -96,4 +96,29 @@ fetch(`https://aromaxdev.xyz/api/chatbot?message=${mes}`, {
   |`phylum`| `string` | Sets chatbot's phylum|
   |`president`| `string` | Sets chatbot's president|
 </details>
-
+  
+  
+  
+  <h4 id="fetch-user">Discord User Information</h4>
+<details>
+  <summary> View More</summary>
+  
+    ```
+  https://aromaxdev.xyz/api/discord/user/<UserID>
+  ```
+  
+  # Example
+  
+  ```js
+  const fetch = require("node-fetch").default;
+fetch(`https://aromaxdev.xyz/api/discord/user/519666024220721152`, {
+        
+    })
+        .then(res => res.json())
+        .then(data => {
+       console.log(data.url) // Gives avatar link
+  console.log(data.username) // Gives username 
+        })
+  ```
+  
+</details>
