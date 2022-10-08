@@ -125,3 +125,5 @@ fetch(`https://aromaxdev.xyz/api/discord/user/519666024220721152`, {
   ```
   
 </details>
+
+Thanks for using our api
